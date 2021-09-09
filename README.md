@@ -15,6 +15,14 @@
   - A Rectangular/Square indicator is drawn on the screen indicating the position of the object
   - The App also speaks the name of the detected object 
   
+## Preview GIFS and ScreenShots
+  <div>
+    <img src="/image6.jpg" alt="object detection" width="25%" height="25%"/>
+ 
+    <img src="image7.jpg" alt="object detection" width="25%" height="25%"/>
+ 
+    <img src="image8.jpg" alt="object detection" width="25%" height="25%"/>
+  </div>
   
   # Building and Installation
   ## Prerequisites
