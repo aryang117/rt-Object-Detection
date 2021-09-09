@@ -19,9 +19,9 @@
   <div>
     <img src="/image6.jpg" alt="object detection" width="25%" height="25%"/>
  
-    <img src="image7.jpg" alt="object detection" width="25%" height="25%"/>
+    <img src="/image7.jpg" alt="object detection" width="25%" height="25%"/>
  
-    <img src="image8.jpg" alt="object detection" width="25%" height="25%"/>
+    <img src="/image9.jpg" alt="object detection" width="25%" height="25%"/>
   </div>
   
   # Building and Installation
